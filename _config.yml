@@ -1,0 +1,100 @@
+---
+booktitle: Proceedings of The 9th International Conference on Medical Imaging with
+  Deep Learning
+shortname: MIDL
+volume: '315'
+year: '2026'
+start: &1 2026-07-08
+end: 2026-07-10
+published: 2026-05-05
+conference_number: '9'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MIDL-2026
+month: 0
+cycles: false
+bibtex_editor: Huo, Yuankai and Gao, Mingchen and Kuo, Chang-Fu and Jin, Yueming and
+  Deng, Ruining
+editor:
+- given: Yuankai
+  family: Huo
+- given: Mingchen
+  family: Gao
+- given: Chang-Fu
+  family: Kuo
+- given: Yueming
+  family: Jin
+- given: Ruining
+  family: Deng
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 9th International Conference on Medical Imaging with Deep Learning
+    Held in Chientan, Taipei, Taiwan on 08-10 July 2026
+
+  Published as Volume 315 by the Proceedings of Machine Learning Research on 05 May 2026.
+
+  Volume Edited by:
+    Yuankai Huo
+    Mingchen Gao
+    Chang-Fu Kuo
+    Yueming Jin
+    Ruining Deng
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: '08--10 Jul'
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v315"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v315
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v315
+email: ''
+conference:
+  name: Medical Imaging with Deep Learning
+  url: https://2026.midl.io/
+  location: Chientan, Taipei, Taiwan
+  dates:
+  - *1
+  - 2026-07-09
+  - 2026-07-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: midl26_clean.bib
+# Site settings
+# Original source:  midl26_clean.bib
