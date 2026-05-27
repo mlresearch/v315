@@ -25,8 +25,8 @@ month: 0
 tex_title: Learning Structure-Aware Foundational Representation of Rat Testicular
   Tubules Using Multiple Instance Learning
 firstpage: 3131
-lastpage: 3151
-page: 3131-3151
+lastpage: 3149
+page: 3131-3149
 order: 3131
 cycles: false
 bibtex_author: Kshirsagar, Vedang and Juturu, Saketh and Raipuria, Geetank and Singhal,
